@@ -1,9 +1,9 @@
 # sampletest
 
-![alt text](hampshite graphics.jpg)
+![alt text](hampshire graphics.jpg)
 ![alt text](metamask.jpg)
 ![alt text](consensys.jpg)
 
-#Graphics Above
+# Graphics Above
 
-##New Heading
+## New Heading
