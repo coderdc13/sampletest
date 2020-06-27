@@ -42,3 +42,7 @@ According to https://specialistbanking.co.uk/article-desc-7322_Believe%20the%20h
 ### What are the other major companies in this domain?
 According to specialistbanking.co.uk, at https://specialistbanking.co.uk/banks.php?id=&page=4, competitors include Tide (tide.co), U Account (https://www.uaccount.uk/), and Tesco Bank (https://www.tescobank.com/). There seem to be many other competitors, based on the list of banks. It is important to note that some of these banks have lost their websites.
 ## Results
+### What has been the business impact of this company so far?
+Most likely, HTB would claim that it satisfies "the need for a different shape of bank – one built on investing in traditional banking relationships, hiring individuals with experience put inthe time in to understand the challenges and opportunities that a particular organisation faces nowand in the future" (https://www.financedigest.com/the-rise-of-the-specialist-bank.html). It has been asserted at https://yculz33w9skgdkhey8rajqm6-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/SnapLogic-Hampshire-Trust-Bank-Case-Study.pdf that HTB offers greater agility and data-driven options for clients. HTB may well offer the model of a small, traditional bank being reinvigorated into a growing giant based on data, technology, and close client relationships.
+### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Perhaps the chief core metric is 
