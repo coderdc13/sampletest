@@ -56,5 +56,28 @@ The company is already depending on its use of Application Programming Interface
 The technologies utilized would include machine learning, blockchain, and data science in general.
 ### Why are these technologies appropriate for your solution?
 The proposed solution needs these technologies to render the service and also to draw any quantifiable value.
-
-
+## Works Cited
+https://www.thesavings.guru/bank-directory/186-hampshire-trust-bank
+https://beta.companieshouse.gov.uk/company/01311315
+https://www.fintechmagazine.com/company/hampshire-trust-bank-using-digital-transformation-improve-human-interaction-not-replace-it
+https://beta.companieshouse.gov.uk/company/01311315
+https://www.alchemypartners.co.uk/
+https://beta.companieshouse.gov.uk/company/OC301618
+https://www.alchemypartners.co.uk/our-team/
+https://www.alchemypartners.co.uk/
+https://www.fintechmagazine.com/company/hampshire-trust-bank-using-digital-transformation-improve-human-interaction-not-replace-it
+https://www.htb.co.uk/latest-news/hampshire-trust-bank-profit-more-than-doubles-as-bank-continues-to-grow/
+https://thebanks.eu/banks/14353
+https://www.htb.co.uk/
+https://www.financedigest.com/the-rise-of-the-specialist-bank.html
+https://www.british-business-bank.co.uk/wp-content/uploads/2016/02/British-Business-Bank-Small-Business-Finance-Markets-Report-2015-16.pdf
+https://www.htb.co.uk/insights/htb-positions-data-at-the-heart-of-decision-making-with-tech-investments/
+https://www.phoebus.co.uk/solutions/
+https://www.apakgroup.com/
+https://icaconsultancy.co.uk/services-assist/cisoaas/
+https://specialistbanking.co.uk/article-desc-7322_Believe%20the%20hype%20%E2%80%93%20why%20explainable%20AI%20is%20a%20trend%20that%E2%80%99s%20here%20to%20stay
+https://specialistbanking.co.uk/banks.php?id=&page=4
+tide.co
+https://www.uaccount.uk/
+https://www.tescobank.com/
+https://yculz33w9skgdkhey8rajqm6-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/SnapLogic-Hampshire-Trust-Bank-Case-Study.pdf
