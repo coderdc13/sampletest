@@ -1,6 +1,6 @@
 # sampletest
 
-![alt text](hampshire graphics.jpg)
+![alt text](hampgraphics.jpg)
 ![alt text](metamask.jpg)
 ![alt text](consensys.jpg)
 
