@@ -45,4 +45,16 @@ According to specialistbanking.co.uk, at https://specialistbanking.co.uk/banks.p
 ### What has been the business impact of this company so far?
 Most likely, HTB would claim that it satisfies "the need for a different shape of bank – one built on investing in traditional banking relationships, hiring individuals with experience put inthe time in to understand the challenges and opportunities that a particular organisation faces nowand in the future" (https://www.financedigest.com/the-rise-of-the-specialist-bank.html). It has been asserted at https://yculz33w9skgdkhey8rajqm6-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/SnapLogic-Hampshire-Trust-Bank-Case-Study.pdf that HTB offers greater agility and data-driven options for clients. HTB may well offer the model of a small, traditional bank being reinvigorated into a growing giant based on data, technology, and close client relationships.
 ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-Perhaps the chief core metric is 
+Perhaps the chief core metric is assets. In terms of assets, https://thebanks.eu/banks/14353 states that HTB is the "102nd largest bank in the United Kingdom." Also, https://thebanks.eu/banks/14353 states that HTB has a "market share of 0.01%."
+### How is your company performing relative to competitors in the same domain?
+Given that other banks have lost their websites, HTB seems to be performing relatively well compared with competitors in the same domain. HTB seems to be growing and cultivating partnerships in the fintech world. At the very least, HTB may be seen as having strong public relations and media relationships in the fintech world, based on its favorable profiles.
+### If you were to advise the company, what products or services would you suggest they offer? This could be something that a competitor offers, or use your imagination.
+The student author would attempt to dominate the other specialist banks by offering a free application that gives complete details and rates from competitors in real time. Providing this free application would encourage users to register for the application (on a digital arm of HTB, of course), and as the users would increase use of this application, the users would learn more about the parent company, that is, HTB itself. The free application would provide free value, encourage potential clients, and provide an edge over competitors.
+### Why do you think that offering this product or service would benefit the company?
+The company is already depending on its use of Application Programming Interfaces (APIs). Creative leveraging of these APIs would benefit the company in that users of the proposed application would gain trust in the bank and then become clients of the bank. HTB would not have to exert much extra effort and could rely on its existing technological structures in a fine opportunity to gain more users and clients.
+### What technology would this additional product or service utilize?
+The technologies utilized would include machine learning, blockchain, and data science in general.
+### Why are these technologies appropriate for your solution?
+The proposed solution needs these technologies to render the service and also to draw any quantifiable value.
+
+
